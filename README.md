@@ -19,8 +19,8 @@ Portfolio
 <nav>
   <ul>
     <li>#about About Me</a></li>
-    <li>#portfoli Writing Portfolio</a></li>
-    <li>#resumeResume Highlights</a></li>
+    <li>#portfolio Writing Portfolio</a></li>
+    <li>#resume Resume Highlights</a></li>
     <li>#contact</li>
   </ul>
 </nav>
@@ -55,7 +55,6 @@ Portfolio
     </p>
     <ul>
       <li>Unit_6.1_Technical_Proposal_Writing.pdf</li>
-      <li>Unit_6.1_Technical_Proposal_Writing.docx</li>
     </ul>
   </article>
 
@@ -72,7 +71,6 @@ Portfolio
     </p>
     <ul>
       <li>U7_LongReport_EWaste.pdf</li>
-      <li>U7.LongReport.EWaste.docxDownload DOCX</a></li>
     </ul>
   </article>
 
@@ -108,8 +106,8 @@ Portfolio
 <section id="contact">
   <h2>Contact</h2>
   <p>
-    GitHub: https://github.com/YOUR-USERNAME
-    https://github.com/YOUR-USERNAME</a>
+    GitHub: https://github.com/Nahb01s87
+    https://github.com/Nahb01s87</a>
   </p>
 </section>
 
