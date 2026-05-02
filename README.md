@@ -107,7 +107,7 @@ Portfolio
   <h2>Contact</h2>
   <p>
     GitHub: https://github.com/Nahb01s87
-    https://github.com/Nahb01s87</a>
+    </a>
   </p>
 </section>
 
