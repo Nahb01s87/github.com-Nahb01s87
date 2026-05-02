@@ -18,8 +18,8 @@ Portfolio
 
 <nav>
   <ul>
-    <li>#aboutAbout Me</a></li>
-    <li>#portfolioWriting Portfolio</a></li>
+    <li>#about About Me</a></li>
+    <li>#portfoli Writing Portfolio</a></li>
     <li>#resumeResume Highlights</a></li>
     <li>#contact</li>
   </ul>
