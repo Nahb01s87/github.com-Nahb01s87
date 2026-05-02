@@ -3,94 +3,120 @@ Portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Siobhan Doherty | Writing Portfolio</title>
-<style>
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    background-color: #f4f4f4;
-    line-height: 1.6;
-}
-header {
-    background: #1f2933;
-    color: #ffffff;
-    padding: 30px;
-    text-align: center;
-}
-section {
-    padding: 40px;
-    max-width: 800px;
-    margin: auto;
-    background: #ffffff;
-    margin-bottom: 20px;
-}
-h2 {
-    color: #1f2933;
-}
-a {
-    color: #2563eb;
-    text-decoration: none;
-}
-footer {
-    text-align: center;
-    padding: 20px;
-    background: #1f2933;
-    color: #ffffff;
-}
-</style>
+  <meta charset="UTF-8">
+  <title>Siobhan Doherty | Writing Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  style.css
 </head>
 
 <body>
 
 <header>
-    <h1>Siobhan Doherty</h1>
-    <p>Technical Writing & Research Portfolio</p>
+  <h1>Siobhan Doherty</h1>
+  <p>Technical & Academic Writing Portfolio</p>
 </header>
 
-<section>
-    <h2>About Me</h2>
-    <p>
-        I am a Computer Information Systems student with strong technical writing,
-        research, and analytical communication skills. This portfolio showcases
-        academic projects developed over an eight week period that demonstrate my
-        ability to present complex information professionally and effectively.
-    </p>
+<nav>
+  <ul>
+    <li>#aboutAbout Me</a></li>
+    <li>#portfolioWriting Portfolio</a></li>
+    <li>#resumeResume Highlights</a></li>
+    <li>#contact</li>
+  </ul>
+</nav>
+
+<main>
+
+<!-- ABOUT ME -->
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    I am a Computer Information Systems student with a strong focus on technical
+    and research-based writing. This portfolio highlights proposals, research
+    reports, and presentations developed during my coursework, emphasizing
+    clarity, professional communication, and analytical thinking.
+  </p>
 </section>
 
-<section>
-    <h2>Writing Portfolio</h2>
+<!-- WRITING PORTFOLIO -->
+<section id="portfolio">
+  <h2>Writing Portfolio</h2>
 
-    <h3>Technical Proposal: Self Illuminating Exit Signs</h3>
+  <!-- PROJECT 1 -->
+  <article>
+    <h3>Replacing Traditional Exit Signs with Self‑Illuminating Exit Signs</h3>
+    <p><strong>Skills:</strong> Technical writing, cost analysis, proposal formatting</p>
     <p>
-        A formal proposal recommending energy efficient exit signage to reduce
-        costs, improve reliability, and enhance safety.
+      This proposal evaluates the replacement of incandescent and fluorescent exit
+      signs with self‑illuminating alternatives. It analyzes cost savings, energy
+      efficiency, maintenance reduction, and safety reliability during power failures.
+      Real‑world data from a Marine Corps facility demonstrates a short return on
+      investment and significant long‑term savings.
     </p>
-    <p><a href="Unit6_Technical_Proposal.pdf">View Proposal</a></p>
+    <ul>
+      <li>Unit_6.1_Technical_Proposal_Writing.pdf</li>
+      <li>Unit_6.1_Technical_Proposal_Writing.docx</li>
+    </ul>
+  </article>
 
-    <h3>Research Report: E Waste and Environmental Impact</h3>
+  <!-- PROJECT 2 -->
+  <article>
+    <h3>E‑Waste and Environmental Impact: Risks, Responsibilities, and Sustainable Solutions</h3>
+    <p><strong>Skills:</strong> Academic research, critical analysis, environmental policy awareness</p>
     <p>
-        An in depth research study examining environmental, health, and policy
-        implications of global electronic waste.
+      This long‑form research report investigates the environmental and health
+      impacts of electronic waste. Using peer‑reviewed literature, it examines
+      informal recycling practices, environmental justice concerns, Extended
+      Producer Responsibility (EPR) policies, and consumer behavior. The report
+      emphasizes the need for international cooperation and sustainable design.
     </p>
-    <p><a href="Ewaste_Research_Report.pdf">View Research Report</a></p>
+    <ul>
+      <li>U7_LongReport_EWaste.pdf</li>
+      <li>U7.LongReport.EWaste.docxDownload DOCX</a></li>
+    </ul>
+  </article>
 
-    <h3>Presentation: The Growing E Waste Crisis</h3>
+  <!-- PROJECT 3 -->
+  <article>
+    <h3>The Growing E‑Waste Crisis</h3>
+    <p><strong>Skills:</strong> Visual communication, research synthesis, public presentation</p>
     <p>
-        A visual presentation translating academic research into accessible,
-        audience focused content.
+      This visual presentation explains the global e‑waste crisis, highlighting
+      environmental damage, public health risks, manufacturer responsibility,
+      and the consumer’s role in sustainable change. It translates academic
+      research into accessible, visually organized content.
     </p>
-    <p><a href="EWaste_Presentation.pptx">Download Presentation</a></p>
+    <ul>
+      <li>CIS311_The_Growing_EWaste_Crisis.pptx</li>
+    </ul>
+  </article>
+
 </section>
 
-<section>
-    <h2>Contact</h2>
-    <p>Email: yourname@email.com</p>
-    <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+<!-- RESUME -->
+<section id="resume">
+  <h2>Resume Highlights</h2>
+  <ul>
+    <li>Technical and academic writing</li>
+    <li>Research synthesis and documentation</li>
+    <li>Proposal development and cost analysis</li>
+    <li>Environmental and technology-focused analysis</li>
+  </ul>
 </section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <h2>Contact</h2>
+  <p>
+    GitHub: https://github.com/YOUR-USERNAME
+    https://github.com/YOUR-USERNAME</a>
+  </p>
+</section>
+
+</main>
 
 <footer>
-    <p>&copy; 2026 Siobhan Doherty</p>
+  <p>© 2026 Siobhan Doherty</p>
 </footer>
 
 </body>
